@@ -1,0 +1,13 @@
+C:\LN\xaydunglopanimal\bin\Debug\netcoreapp3.1\xaydunglopanimal.exe
+C:\LN\xaydunglopanimal\bin\Debug\netcoreapp3.1\xaydunglopanimal.deps.json
+C:\LN\xaydunglopanimal\bin\Debug\netcoreapp3.1\xaydunglopanimal.runtimeconfig.json
+C:\LN\xaydunglopanimal\bin\Debug\netcoreapp3.1\xaydunglopanimal.runtimeconfig.dev.json
+C:\LN\xaydunglopanimal\bin\Debug\netcoreapp3.1\xaydunglopanimal.dll
+C:\LN\xaydunglopanimal\bin\Debug\netcoreapp3.1\xaydunglopanimal.pdb
+C:\LN\xaydunglopanimal\obj\Debug\netcoreapp3.1\xaydunglopanimal.csprojAssemblyReference.cache
+C:\LN\xaydunglopanimal\obj\Debug\netcoreapp3.1\xaydunglopanimal.AssemblyInfoInputs.cache
+C:\LN\xaydunglopanimal\obj\Debug\netcoreapp3.1\xaydunglopanimal.AssemblyInfo.cs
+C:\LN\xaydunglopanimal\obj\Debug\netcoreapp3.1\xaydunglopanimal.csproj.CoreCompileInputs.cache
+C:\LN\xaydunglopanimal\obj\Debug\netcoreapp3.1\xaydunglopanimal.dll
+C:\LN\xaydunglopanimal\obj\Debug\netcoreapp3.1\xaydunglopanimal.pdb
+C:\LN\xaydunglopanimal\obj\Debug\netcoreapp3.1\xaydunglopanimal.genruntimeconfig.cache
